@@ -1,0 +1,25 @@
+img {
+	width: 265px;
+	height: 245px;
+}
+
+div{
+	border-style: dashed;
+	border-color: white;
+	border-width: 50px;
+}
+
+h1,
+h3 {
+	font-family: 'Monoton', cursive;
+	text-align: center;
+	font-size:50px;
+}
+
+#crystal {
+	padding-left: 230px;
+}
+
+body {
+    background-color: #fabf35;
+}
